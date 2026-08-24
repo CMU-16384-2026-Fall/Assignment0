@@ -7,8 +7,9 @@ Welcome to the GitHub repository for the Robot Kinematics and Dynamics course (1
 - **Course:** 16-384 Robot Kinematics and Dynamics
 - **Professor:** Prof. Jeff Ichnowski
 - **Teaching Assistants:**
-  - Shahram Najam Syed
-  - Yuemin Mao
+  - Albert Xu
+  - Henry Liao
+  - Karthik Srinivasan
 
 ## Repository Structure
 
